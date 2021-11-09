@@ -1,0 +1,11 @@
+Cara Install Bot
+
+pkg update && pkg upgrade && pkg install nodejs && pkg install bash && pkg install ffmpeg && termux-setup-storage && cd /sdcard && cp -r VBOT $HOME && cd && cd VBOT && npm start
+
+ITU EROR? PAKEK YG DI BAWAH INI!!
+
+apt upgrade && apt update && pkg install nodejs && pkg install bash && pkg install libwebp && pkg install ffmpeg && termux-setup-storage && cd /sdcard && cp -r VBOT $HOME && cd && cd VBOT && npm start
+
+UNTUK YG UDH PERNAH PASANG BOT IKUTI COMMAND DI BAWAH INI,UNTUK COMMAND YG DI ATAS ITU UNTUK YG BELOM PERNAH PASANG BOT!!
+
+cd /sdcard && cp -r VBOT $HOME && cd && cd VBOT && npm start
